@@ -1,0 +1,54 @@
+2023-05-13 23:11:13.235 [info] Extension host with pid 4043 started
+2023-05-13 23:11:14.860 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-05-13 23:11:15.080 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-05-13 23:11:15.449 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Lock acquired.
+2023-05-13 23:11:17.551 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-13 23:11:18.301 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: true, activationEvent: 'workspaceContains:**/*.php'
+2023-05-13 23:11:22.376 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-13 23:11:22.379 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-13 23:11:27.149 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-13 23:11:27.150 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-13 23:11:49.722 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-05-13 23:13:46.620 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-05-13 23:13:46.621 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-05-14 00:10:11.391 [info] Extension host terminating: received terminate message from renderer
+2023-05-14 00:10:11.392 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-05-14 00:10:11.601 [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+2023-05-14 00:10:11.603 [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Be (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:113:6672)
+	at Object.dispose (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:97:12460)
+	at P (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:113:11173)
+	at /home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:113:9157
+	at Array.map (<anonymous>)
+	at v.R (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:113:9144)
+	at v.terminate (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:113:9415)
+	at d.terminate (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at g (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:127:34439)
+	at /home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:127:32349
+	at v.invoke (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at u.E (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+	at /home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:72:16887
+	at v.invoke (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+	at /home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+	at v.invoke (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at y.u (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:127:20039)
+	at y.acceptFrame (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:127:19845)
+	at h.l (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:127:18438)
+	at /home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:127:15775
+	at Socket.n (/home/nubiacantu/.vscode-server/bin/6a995c4f4cc2ced6e3237749973982e751cb0bf9/out/vs/workbench/api/node/extensionHostProcess.js:127:13609)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-05-14 00:10:11.648 [info] Eager extensions activated
+2023-05-14 00:10:11.775 [info] Extension host with pid 4043 exiting with code 0

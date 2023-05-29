@@ -1,0 +1,413 @@
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T02:49:30.153624441Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-08T02:49:30.369954565Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/WINDOWS 10/.docker/contexts
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T02:49:34.037986079Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T02:49:38.499160939Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T02:49:42.049363508Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T13:20:25.627207581Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-08T13:20:25.701005627Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T13:20:27.841714115Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-08T13:20:28.131905261Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T13:20:30.199714199Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-08T13:20:30.477710884Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-08T13:20:32.446083946Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-08T13:20:32.814498514Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:55:31.517240982Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T05:55:31.694275320Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:55:33.916633895Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T05:55:33.965249737Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:55:36.584713117Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T05:55:36.694041724Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:55:39.795229266Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T05:55:40.067776317Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:57:15.614119245Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T05:57:15.761915300Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:57:20.670562528Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T05:57:20.979520025Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:57:25.513443469Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T05:57:25.666768838Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T05:57:31.350632912Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T05:57:31.833569168Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:16:16.649655061Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T06:16:17.226855214Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:16:22.033145309Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T06:16:22.256820676Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:16:25.999569272Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T06:16:26.259093652Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:16:29.658660131Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T06:16:30.145320057Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:18:08.694564869Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T06:18:08.958832848Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:18:12.729261315Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T06:18:12.955358844Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:18:16.375901569Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T06:18:16.690566854Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:18:20.614916204Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T06:18:21.357689060Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:41:19.838864287Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T06:41:20.021698538Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:41:27.538912305Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T06:41:27.975443803Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:41:30.581421722Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T06:41:31.109166551Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:41:33.729496744Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T06:41:34.003596845Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:51:37.803919224Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T06:51:38.024891148Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:51:41.904449783Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T06:51:42.365801651Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:51:48.026914889Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T06:51:48.235427083Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:51:51.681383386Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T06:51:52.144394451Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:53:16.510720134Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T06:53:16.575314136Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:53:19.334548441Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T06:53:19.495577713Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:53:21.936312612Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T06:53:22.072906946Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T06:53:24.318103053Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T06:53:24.480235041Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T07:08:07.856063236Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T07:08:07.899066597Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T07:08:10.046626972Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T07:08:10.178464540Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T07:08:12.349180255Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T07:08:12.418501969Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T07:08:15.160696362Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T07:08:15.462014589Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:16:21.536924893Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T13:16:22.483837169Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:16:30.891976123Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T13:16:33.466316127Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:16:45.467894003Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T13:16:45.773963125Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:16:51.226993504Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T13:16:53.290066924Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:38:27.822069560Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-10T13:38:28.104334892Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:38:31.525004085Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-10T13:38:31.822931419Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:38:35.676235152Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-10T13:38:35.870810642Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-10T13:38:39.369023779Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-10T13:38:40.044507445Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:18:25.229191407Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-11T04:18:25.605226392Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:18:31.390049236Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-11T04:18:31.741575336Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:18:39.015767493Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-11T04:18:39.980305022Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:18:48.742328738Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-11T04:18:49.409924878Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:20:14.027728046Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-11T04:20:14.147676634Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:20:18.653364927Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-11T04:20:18.874700024Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:20:23.712651892Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-11T04:20:23.986740803Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:20:31.314617550Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-11T04:20:32.082510242Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:31:53.371103377Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-11T04:31:53.510955824Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:31:55.778016160Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-11T04:31:55.958422608Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:31:58.318048327Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-11T04:31:58.472744230Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-11T04:32:00.906786838Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-11T04:32:01.135395963Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:25:04.042320042Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-12T04:25:04.371585202Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:25:09.933292286Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-12T04:25:10.174897254Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:25:15.842728536Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-12T04:25:16.136282483Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:25:22.041962620Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-12T04:25:22.908264660Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:27:07.400011241Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-12T04:27:07.458371253Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:27:09.864204444Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-12T04:27:09.920357211Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:27:12.280568421Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-12T04:27:12.382322375Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-12T04:27:14.660230437Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-12T04:27:14.767379134Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T04:49:28.598083496Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-14T04:49:28.692742800Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T04:49:30.593053610Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-14T04:49:30.715048411Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T04:49:32.888805831Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-14T04:49:33.084511164Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T04:49:35.024356051Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-14T04:49:35.247902875Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:26:06.809720189Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-14T19:26:07.095969481Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:26:11.684998589Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-14T19:26:12.046101322Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:26:17.051687578Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-14T19:26:18.066931263Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:26:23.768412087Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-14T19:26:24.294853492Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:27:34.774626909Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-14T19:27:34.914842727Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:27:39.430924995Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-14T19:27:39.579255109Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:27:45.030718543Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-14T19:27:45.275268127Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:27:50.118130390Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-14T19:27:50.442745944Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:39:37.163262833Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-14T19:39:37.263535896Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:39:39.178130287Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-14T19:39:39.470368807Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:39:41.474646481Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-14T19:39:41.731360773Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T19:39:43.771243042Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-14T19:39:44.189832266Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-15T04:58:36.087082093Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-15T04:58:36.331575665Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-15T04:58:38.424949394Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-15T04:58:38.482108038Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-15T04:58:40.894386103Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-15T04:58:41.174051473Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-15T04:58:43.265536167Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-15T04:58:43.586381207Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T02:35:26.086111707Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-16T02:35:26.132857122Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T02:35:28.511903537Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-16T02:35:28.647311209Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T02:35:31.062855785Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-16T02:35:31.152596512Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T02:35:34.098211557Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-16T02:35:34.253994605Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T21:32:45.094592116Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-16T21:32:45.290882933Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T21:32:47.621815199Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-16T21:32:47.741917100Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T21:32:49.737356706Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-16T21:32:49.935518476Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-16T21:32:52.293400544Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-16T21:32:52.549402547Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T03:26:04.456348348Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-17T03:26:04.674361104Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T03:26:09.383546404Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-17T03:26:09.637999191Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T03:26:13.979553006Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-17T03:26:14.292251294Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T03:26:18.641456482Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-17T03:26:19.095971541Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T13:29:06.876650420Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts
+[2023-05-17T13:29:06.965113568Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/WINDOWS 10/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T13:29:09.180498243Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.aws, linkPath = <HOME>/.aws
+[2023-05-17T13:29:09.285644320Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/WINDOWS 10/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T13:29:11.499946595Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.azure, linkPath = <HOME>/.azure
+[2023-05-17T13:29:11.594116553Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/WINDOWS 10/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-17T13:29:13.543461413Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/WINDOWS 10/.docker/features.json, linkPath = ~/.docker/features.json
+[2023-05-17T13:29:13.714954648Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.docker/features.json to /mnt/c/Users/WINDOWS 10/.docker/features.json: they are the same path already

@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/nubiacantu/example-app","configPath":"/home/nubiacantu/example-app/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/nubiacantu/example-app/tailwind.config.js","priority":0},{"pattern":"/home/nubiacantu/example-app/resources/**/*/*.blade.php","priority":1},{"pattern":"/home/nubiacantu/example-app/resources/**/*/*.js","priority":1},{"pattern":"/home/nubiacantu/example-app/**","priority":3}]}]
+[Global] Adding watch patterns: /home/nubiacantu/example-app/tailwind.config.js, /home/nubiacantu/example-app
+[tailwind.config.js] Initializing...
+[tailwind.config.js] Loaded Tailwind CSS config file: /home/nubiacantu/example-app/tailwind.config.js
+[tailwind.config.js] Loaded postcss v8.4.23: /home/nubiacantu/example-app/node_modules/postcss
+[tailwind.config.js] Loaded tailwindcss v3.3.2: /home/nubiacantu/example-app/node_modules/tailwindcss
+[tailwind.config.js] Building...

@@ -1,0 +1,450 @@
+2023-05-15 20:34:18.734 [info] Extension host with pid 813 started
+2023-05-15 20:34:19.367 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-15 20:34:19.376 [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-15 20:34:19.421 [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-15 20:34:19.427 [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-15 20:34:20.604 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-15 20:34:20.633 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2023-05-15 20:34:23.887 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-05-15 20:34:25.246 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Lock acquired.
+2023-05-15 20:34:27.962 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-15 20:34:27.962 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-15 20:34:29.224 [info] Not activating extension 'zobo.php-intellisense': Timed out while searching for 'workspaceContains' pattern **/*.php
+2023-05-15 20:34:30.677 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-15 20:34:30.708 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-15 20:34:30.709 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-05-15 20:34:33.845 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:34:33.846 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:34:34.045 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:34:34.046 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:34:34.046 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:34:34.047 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:34:34.047 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:34:34.345 [info] Eager extensions activated
+2023-05-15 20:35:29.674 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:36:40.819 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:37:28.731 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:38:32.678 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:39:28.917 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:40:29.178 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:41:28.855 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:42:30.135 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:43:28.937 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:44:28.923 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:44:30.793 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:45:29.200 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:46:28.912 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:47:28.851 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:48:28.848 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:49:28.877 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:50:23.592 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-05-15 20:50:23.594 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-05-15 20:50:23.595 [info] ExtensionService#_doActivateExtension MehediDracula.php-namespace-resolver, startup: false, activationEvent: 'onLanguage:php'
+2023-05-15 20:50:23.596 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: false, activationEvent: 'onLanguage:php'
+2023-05-15 20:50:29.547 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:51:28.867 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:52:28.950 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:53:29.917 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:54:29.038 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:54:29.332 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:55:29.176 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:56:29.419 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:57:32.839 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:58:06.070 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-05-15 20:58:29.112 [error] /bin/sh: 1: php: not found
+
+2023-05-15 20:59:29.496 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:00:29.036 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:01:35.918 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:02:29.028 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:03:28.992 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:04:29.328 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:04:29.564 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:05:28.982 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:06:29.124 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:07:29.895 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:08:29.431 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:09:29.173 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:10:28.987 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:11:30.014 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:12:29.206 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:13:29.041 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:14:29.053 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:14:29.314 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:15:29.020 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:16:29.118 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:17:29.627 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:18:29.053 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:19:28.998 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:20:28.995 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:21:29.002 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:22:29.387 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:23:04.906 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-15 21:23:33.300 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:23:40.703 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-05-15 21:23:40.711 [error] TypeError: Cannot read properties of null (reading 'filter')
+    at Object.<anonymous> (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1185)
+2023-05-15 21:24:23.985 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-05-15 21:24:23.985 [error] TypeError: Cannot read properties of null (reading 'filter')
+    at Object.<anonymous> (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1185)
+2023-05-15 21:24:31.561 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:24:31.562 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:24:38.594 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-05-15 21:24:38.595 [error] TypeError: Cannot read properties of null (reading 'filter')
+    at Object.<anonymous> (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1185)
+2023-05-15 21:24:38.737 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-05-15 21:24:38.738 [error] TypeError: Cannot read properties of null (reading 'filter')
+    at Object.<anonymous> (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1185)
+2023-05-15 21:25:30.001 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:26:30.922 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:27:29.027 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:28:29.004 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:29:28.996 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:30:29.209 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:31:03.670 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-05-15 21:31:03.670 [error] TypeError: Cannot read properties of null (reading 'filter')
+    at Object.<anonymous> (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1185)
+2023-05-15 21:31:29.099 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:32:30.048 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:33:29.415 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:34:29.453 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:34:29.788 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:35:29.456 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:36:29.473 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:37:29.454 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:38:29.515 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:39:29.478 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:40:29.479 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:41:29.801 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:42:29.625 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:43:29.438 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:44:29.510 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:44:29.853 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:45:29.504 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:46:30.124 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:47:29.480 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:48:29.650 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:49:29.549 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:50:30.350 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:51:29.419 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:52:29.428 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:53:29.481 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:54:29.470 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:54:29.699 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:55:29.499 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:56:29.474 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:57:29.547 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:58:29.855 [error] /bin/sh: 1: php: not found
+
+2023-05-15 21:59:29.893 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:00:29.818 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:01:30.131 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:02:29.952 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:03:29.985 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:04:30.119 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:04:30.413 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:05:30.248 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:06:30.632 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:07:31.403 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:08:30.014 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:09:30.041 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:10:30.084 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:11:27.021 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:11:32.225 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:11:45.788 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:11:50.009 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:12:10.011 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:12:31.302 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:13:30.199 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:14:30.344 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:14:30.720 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:15:30.155 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:16:30.145 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:17:30.126 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:18:30.131 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:19:30.127 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:20:30.133 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:21:30.109 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:22:30.116 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:23:30.088 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:24:30.087 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:24:30.322 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:25:30.083 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:26:30.184 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:27:30.110 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:28:30.072 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:29:30.072 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:30:30.094 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:31:30.068 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:32:30.099 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:33:30.115 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:34:30.072 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:34:30.273 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:35:30.091 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:36:30.084 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:37:30.074 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:38:30.032 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:39:30.097 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:40:30.045 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:41:30.049 [error] /bin/sh: 1: php: not found
+
+2023-05-15 22:42:30.032 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:13:09.680 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:13:33.606 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:13:34.785 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:13:51.544 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:14:14.270 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:14:31.497 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:14:31.829 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:15:31.464 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:16:31.424 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:16:48.922 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:16:57.541 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:17:04.287 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:17:31.604 [error] /bin/sh: 1: php: not found
+
+2023-05-15 23:18:29.883 [info] Extension host terminating: received terminate message from renderer
+2023-05-15 23:18:29.887 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-05-15 23:18:30.233 [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+2023-05-15 23:18:30.248 [error] TypeError: Cannot read private member from an object whose class did not declare it
+    at Be (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:6672)
+    at Object.dispose (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:97:12460)
+    at P (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+    at v.Y (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:11173)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9157
+    at Array.map (<anonymous>)
+    at v.R (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9144)
+    at v.terminate (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9415)
+    at d.terminate (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+    at g (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:34439)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:32349
+    at v.invoke (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at h.deliver (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at i.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at g.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+    at u.E (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:18078
+    at v.invoke (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at h.deliver (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at i.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at d.acceptChunk (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+    at v.invoke (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at h.deliver (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at i.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at y.u (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:20039)
+    at y.acceptFrame (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:19845)
+    at h.l (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:18438)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:15775
+    at Socket.n (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:13609)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-05-15 23:18:30.278 [error] An error occurred when deactivating the subscriptions for extension 'MehediDracula.php-namespace-resolver':
+2023-05-15 23:18:30.293 [error] TypeError: u.dispose is not a function
+    at P (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+    at v.Y (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:11173)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9157
+    at Array.map (<anonymous>)
+    at v.R (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9144)
+    at v.terminate (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:113:9415)
+    at d.terminate (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+    at g (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:34439)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:32349
+    at v.invoke (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at h.deliver (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at i.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at g.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+    at u.E (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:18899)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:18078
+    at v.invoke (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at h.deliver (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at i.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at d.acceptChunk (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:12583)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:72:11870
+    at v.invoke (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at h.deliver (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at i.fire (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at y.u (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:20039)
+    at y.acceptFrame (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:19845)
+    at h.l (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:18438)
+    at /home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:15775
+    at Socket.n (/home/nubiacantu/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/workbench/api/node/extensionHostProcess.js:127:13609)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-05-15 23:18:30.630 [info] Extension host with pid 813 exiting with code 0

@@ -1,0 +1,24 @@
+2023-05-14 23:07:48.644 [info] 
+
+
+
+
+2023-05-14 23:07:49.179 [info] Extension host agent started.
+2023-05-14 23:07:50.800 [info] [127.0.0.1][fa1e9817][ManagementConnection] New connection established.
+2023-05-14 23:07:54.995 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-14 23:07:56.136 [info] [127.0.0.1][c0327724][ExtensionHostConnection] New connection established.
+2023-05-14 23:07:58.876 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-14 23:07:58.896 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-14 23:07:58.912 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-14 23:07:59.023 [info] [127.0.0.1][c0327724][ExtensionHostConnection] <1455> Launched Extension Host Process.
+2023-05-14 23:08:04.130 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-14 23:09:24.470 [info] Getting Manifest... zignd.html-css-class-completion
+2023-05-14 23:09:24.965 [info] Installing extension: zignd.html-css-class-completion
+2023-05-14 23:09:40.033 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-14 23:10:10.384 [info] Extension signature is verified: zignd.html-css-class-completion
+2023-05-14 23:10:59.789 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.017e0ea6-3496-4172-8281-532d7fc438d5: zignd.html-css-class-completion
+2023-05-14 23:10:59.982 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/zignd.html-css-class-completion-1.20.0
+2023-05-14 23:11:00.018 [info] Extracting extension completed. zignd.html-css-class-completion
+2023-05-14 23:11:00.246 [info] Extension installed successfully: zignd.html-css-class-completion
+2023-05-15 00:50:30.105 [info] [127.0.0.1][fa1e9817][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-15 00:50:31.657 [info] [127.0.0.1][c0327724][ExtensionHostConnection] <1455> Extension Host Process exited with code: 0, signal: null.

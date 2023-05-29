@@ -1,0 +1,26 @@
+[Info  - 12:08:40 AM] Initialising intelephense 1.9.5
+[Info  - 12:08:41 AM] Reading state from /home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/bmewburn.vscode-intelephense-client/21495f5b.
+[Info  - 12:08:51 AM] Initialised in 11271 ms
+[Info  - 12:08:52 AM] Searching file:///home/nubiacantu/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5/node_modules/intelephense/lib/stub for files to index.
+[Info  - 12:08:53 AM] Searching file:///home/nubiacantu/practica1 for files to index.
+[Warn  - 12:08:58 AM] file:///home/nubiacantu/practica1/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 12:08:58 AM] Indexing started.
+[Info  - 12:08:59 AM] Indexing ended. 2 files indexed in 0s.
+[Info  - 12:08:59 AM] Writing state to /home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/bmewburn.vscode-intelephense-client/21495f5b.
+[Info  - 12:09:12 AM] Wrote state in 13.9s.
+[Info  - 12:46:00 AM] Indexing started.
+[Info  - 12:46:00 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:46:04 AM] Indexing started.
+[Info  - 12:46:05 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:46:07 AM] Indexing started.
+[Info  - 12:46:07 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:46:23 AM] Indexing started.
+[Info  - 12:46:23 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:46:26 AM] Indexing started.
+[Info  - 12:46:26 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:46:39 AM] Indexing started.
+[Info  - 12:46:39 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:47:07 AM] Indexing started.
+[Info  - 12:47:07 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:47:10 AM] Indexing started.
+[Info  - 12:47:10 AM] Indexing ended. 1 files indexed in 0s.

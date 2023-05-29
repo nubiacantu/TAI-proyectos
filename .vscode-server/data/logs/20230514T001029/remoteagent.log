@@ -1,0 +1,21 @@
+2023-05-13 23:10:30.052 [info] 
+
+
+
+
+2023-05-13 23:10:30.760 [info] Extension host agent started.
+2023-05-13 23:10:36.312 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-13 23:10:40.280 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-13 23:10:41.887 [info] [127.0.0.1][9fe21b7d][ManagementConnection] New connection established.
+2023-05-13 23:10:42.023 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-13 23:11:02.396 [info] [127.0.0.1][ae302857][ExtensionHostConnection] New connection established.
+2023-05-13 23:11:02.399 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-13 23:11:02.431 [info] [127.0.0.1][ae302857][ExtensionHostConnection] <4043> Launched Extension Host Process.
+2023-05-13 23:25:28.243 [info] [127.0.0.1][7f0f9e93][ManagementConnection] New connection established.
+2023-05-13 23:25:32.570 [info] [127.0.0.1][0b95225c][ExtensionHostConnection] New connection established.
+2023-05-13 23:25:32.756 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-13 23:25:32.817 [info] [127.0.0.1][0b95225c][ExtensionHostConnection] <4309> Launched Extension Host Process.
+2023-05-14 00:10:08.752 [info] [127.0.0.1][7f0f9e93][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-14 00:10:09.919 [info] [127.0.0.1][0b95225c][ExtensionHostConnection] <4309> Extension Host Process exited with code: 0, signal: null.
+2023-05-14 00:10:11.366 [info] [127.0.0.1][9fe21b7d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-14 00:10:11.943 [info] [127.0.0.1][ae302857][ExtensionHostConnection] <4043> Extension Host Process exited with code: 0, signal: null.

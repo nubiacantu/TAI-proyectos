@@ -1,0 +1,130 @@
+2023-05-13 23:25:39.046 [info] Extension host with pid 4309 started
+2023-05-13 23:25:39.399 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/b97af0ddb574c55c5e7c09ea42f3dd1c/vscode.lock': Lock acquired.
+2023-05-13 23:25:39.774 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-13 23:25:39.790 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-05-13 23:25:39.803 [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-13 23:25:39.805 [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-13 23:25:39.806 [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-13 23:25:41.836 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-13 23:25:43.278 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-05-13 23:25:44.515 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-13 23:25:44.517 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-13 23:25:45.199 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:25:45.214 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:25:45.215 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:25:45.215 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:25:45.218 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:25:45.219 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:25:45.228 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:25:46.458 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: true, activationEvent: 'workspaceContains:**/*.php'
+2023-05-13 23:25:51.908 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-13 23:25:51.910 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-13 23:25:51.912 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-05-13 23:26:38.861 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-13 23:26:44.811 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:27:44.608 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:28:44.410 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:29:45.283 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:30:46.609 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:31:45.029 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:32:45.116 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:33:44.569 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:34:44.371 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:35:44.516 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:35:44.749 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:36:44.535 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:37:44.541 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:38:44.379 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:39:44.423 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:40:45.164 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:41:47.051 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:42:44.764 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:43:44.574 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:44:44.553 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:45:44.764 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:45:44.765 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:46:48.587 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:47:44.716 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:48:44.639 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:49:44.647 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:50:44.777 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:51:45.135 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:52:44.729 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:53:44.675 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:54:44.659 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:55:44.655 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:55:44.659 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:56:44.642 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:57:44.730 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:58:44.686 [error] /bin/sh: 1: php: not found
+
+2023-05-13 23:59:44.707 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:00:44.699 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:01:44.797 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:02:44.847 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:03:44.989 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:04:44.664 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:05:44.695 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:05:44.698 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:06:44.701 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:07:44.791 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:08:44.697 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:09:44.665 [error] /bin/sh: 1: php: not found
+
+2023-05-14 00:10:08.806 [info] Extension host terminating: received terminate message from renderer
+2023-05-14 00:10:08.808 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/b97af0ddb574c55c5e7c09ea42f3dd1c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-05-14 00:10:09.459 [info] Eager extensions activated
+2023-05-14 00:10:09.847 [info] Extension host with pid 4309 exiting with code 0

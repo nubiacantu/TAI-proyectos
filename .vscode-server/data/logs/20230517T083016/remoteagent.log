@@ -1,0 +1,24 @@
+2023-05-17 07:30:17.147 [info] 
+
+
+
+
+2023-05-17 07:30:17.834 [info] Extension host agent started.
+2023-05-17 07:30:19.196 [info] [127.0.0.1][b46eadb1][ManagementConnection] New connection established.
+2023-05-17 07:30:22.706 [info] [127.0.0.1][f8e7bbca][ExtensionHostConnection] New connection established.
+2023-05-17 07:30:23.433 [error] Error: Client network socket disconnected before secure TLS connection was established
+    at connResetException (node:internal/errors:704:14)
+    at TLSSocket.onConnectEnd (node:_tls_wrap:1590:19)
+    at TLSSocket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-05-17 07:30:23.549 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 07:30:27.419 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-17 07:30:27.419 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-17 07:30:27.433 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-17 07:30:27.499 [info] [127.0.0.1][f8e7bbca][ExtensionHostConnection] <1670> Launched Extension Host Process.
+2023-05-17 11:22:14.372 [info] [127.0.0.1][f8e7bbca][ExtensionHostConnection] The client has reconnected.
+2023-05-17 11:22:15.973 [info] [127.0.0.1][b46eadb1][ManagementConnection] The client has reconnected.
+2023-05-17 12:33:21.699 [info] [127.0.0.1][b46eadb1][ManagementConnection] The client has reconnected.
+2023-05-17 12:33:44.196 [info] [127.0.0.1][f8e7bbca][ExtensionHostConnection] The client has reconnected.
+2023-05-17 13:03:48.638 [warning] No ptyHost heartbeat after 6 seconds

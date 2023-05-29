@@ -1,0 +1,11 @@
+2023-05-14 13:42:57.691 [info] Extension host with pid 2514 started
+2023-05-14 13:42:58.255 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Lock acquired.
+2023-05-14 13:42:58.611 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-14 13:42:58.627 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-05-14 13:42:58.640 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-05-14 13:42:58.642 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: false, activationEvent: 'onLanguage:php'
+2023-05-14 13:43:12.833 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-05-14 13:43:12.935 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-05-14 13:43:14.221 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-14 13:43:22.853 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-14 13:43:22.855 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

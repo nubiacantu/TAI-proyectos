@@ -1,0 +1,48 @@
+2023-05-17 00:00:10.075 [info] Extension host with pid 2853 started
+2023-05-17 00:00:10.336 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Lock acquired.
+2023-05-17 00:00:10.891 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-17 00:00:10.904 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-05-17 00:00:10.905 [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-17 00:00:10.906 [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-17 00:00:10.907 [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-17 00:00:11.923 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-17 00:00:11.925 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2023-05-17 00:00:13.514 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-05-17 00:00:18.017 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-17 00:00:18.018 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-17 00:00:19.191 [info] Not activating extension 'zobo.php-intellisense': Timed out while searching for 'workspaceContains' pattern **/*.php
+2023-05-17 00:00:22.295 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-17 00:00:22.308 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-17 00:00:22.309 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-05-17 00:00:27.542 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:00:27.544 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:00:27.545 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:00:27.546 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:00:27.557 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:00:27.557 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:00:27.558 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:00:27.974 [info] Eager extensions activated
+2023-05-17 00:01:19.074 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:02:18.725 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:03:18.897 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:04:18.933 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:05:18.852 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:06:19.235 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:07:19.278 [error] /bin/sh: 1: php: not found
+
+2023-05-17 00:07:43.913 [info] Extension host terminating: received terminate message from renderer
+2023-05-17 00:07:43.914 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-05-17 00:07:44.123 [info] Extension host with pid 2853 exiting with code 0

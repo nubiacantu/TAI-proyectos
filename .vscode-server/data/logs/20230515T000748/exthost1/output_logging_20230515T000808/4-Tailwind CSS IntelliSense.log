@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/nubiacantu/practica1","configPath":"/home/nubiacantu/practica1/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/nubiacantu/practica1/tailwind.config.js","priority":0},{"pattern":"/home/nubiacantu/practica1/**","priority":3}]}]
+[Global] Adding watch patterns: /home/nubiacantu/practica1/tailwind.config.js, /home/nubiacantu/practica1
+[tailwind.config.js] Initializing...
+[tailwind.config.js] Loaded Tailwind CSS config file: /home/nubiacantu/practica1/tailwind.config.js
+[tailwind.config.js] Loaded postcss v8.4.23: /home/nubiacantu/practica1/node_modules/postcss
+[tailwind.config.js] Loaded tailwindcss v3.3.2: /home/nubiacantu/practica1/node_modules/tailwindcss
+[tailwind.config.js] Building...

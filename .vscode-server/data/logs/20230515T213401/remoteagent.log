@@ -1,0 +1,25 @@
+2023-05-15 20:34:01.355 [info] 
+
+
+
+
+2023-05-15 20:34:01.598 [info] Extension host agent started.
+2023-05-15 20:34:02.390 [info] [127.0.0.1][b6abd75d][ManagementConnection] New connection established.
+2023-05-15 20:34:05.541 [info] [127.0.0.1][2b061e9d][ExtensionHostConnection] New connection established.
+2023-05-15 20:34:07.699 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-15 20:34:11.505 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-15 20:34:11.509 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-15 20:34:11.545 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-15 20:34:11.658 [info] [127.0.0.1][2b061e9d][ExtensionHostConnection] <813> Launched Extension Host Process.
+2023-05-15 20:34:20.165 [info] Getting Manifest... zobo.php-intellisense
+2023-05-15 20:34:20.969 [info] Installing extension: zobo.php-intellisense
+2023-05-15 20:34:46.751 [info] Extension signature is verified: zobo.php-intellisense
+2023-05-15 20:35:32.679 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.94b18461-f90b-4639-b0c3-34304c717205: zobo.php-intellisense
+2023-05-15 20:35:32.726 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/zobo.php-intellisense-1.1.3
+2023-05-15 20:35:32.732 [info] Extracting extension completed. zobo.php-intellisense
+2023-05-15 20:35:32.770 [info] Extension installed successfully: zobo.php-intellisense
+2023-05-15 20:35:32.820 [info] Marked extension as uninstalled zobo.php-intellisense-1.1.2
+2023-05-15 23:12:58.363 [info] [127.0.0.1][b6abd75d][ManagementConnection] The client has reconnected.
+2023-05-15 23:13:04.858 [info] [127.0.0.1][2b061e9d][ExtensionHostConnection] The client has reconnected.
+2023-05-15 23:18:29.927 [info] [127.0.0.1][b6abd75d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-15 23:18:30.832 [info] [127.0.0.1][2b061e9d][ExtensionHostConnection] <813> Extension Host Process exited with code: 0, signal: null.

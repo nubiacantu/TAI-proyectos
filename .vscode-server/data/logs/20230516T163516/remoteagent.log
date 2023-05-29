@@ -1,0 +1,20 @@
+2023-05-16 15:35:17.024 [info] 
+
+
+
+
+2023-05-16 15:35:17.455 [info] Extension host agent started.
+2023-05-16 15:35:18.951 [info] [127.0.0.1][9e8f0eda][ManagementConnection] New connection established.
+2023-05-16 15:35:23.153 [info] [127.0.0.1][ff139687][ExtensionHostConnection] New connection established.
+2023-05-16 15:35:23.295 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-16 15:35:27.187 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-16 15:35:27.191 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-16 15:35:27.206 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-16 15:35:27.253 [info] [127.0.0.1][ff139687][ExtensionHostConnection] <1682> Launched Extension Host Process.
+2023-05-16 16:15:12.117 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-16 16:15:21.023 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-16 16:39:27.288 [info] [127.0.0.1][ff139687][ExtensionHostConnection] The client has reconnected.
+2023-05-16 16:39:34.307 [info] [127.0.0.1][9e8f0eda][ManagementConnection] The client has reconnected.
+2023-05-16 17:46:17.108 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-16 17:46:35.084 [info] [127.0.0.1][9e8f0eda][ManagementConnection] The client has reconnected.
+2023-05-16 17:46:36.740 [info] [127.0.0.1][ff139687][ExtensionHostConnection] The client has reconnected.

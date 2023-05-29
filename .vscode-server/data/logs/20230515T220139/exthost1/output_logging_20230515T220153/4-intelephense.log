@@ -1,0 +1,11 @@
+[Info  - 11:11:12 PM] Initialising intelephense 1.9.5
+[Info  - 11:11:12 PM] Reading state from /home/nubiacantu/.vscode-server/data/User/workspaceStorage/b97af0ddb574c55c5e7c09ea42f3dd1c/bmewburn.vscode-intelephense-client/2eb3f2a1.
+[Info  - 11:11:12 PM] Initialised in 106 ms
+[Info  - 11:11:12 PM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 11:11:12 PM] Searching file:///home/nubiacantu/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5/node_modules/intelephense/lib/stub for files to index.
+[Info  - 11:11:13 PM] Searching file:///home/nubiacantu/example-app for files to index.
+[Warn  - 11:11:16 PM] file:///home/nubiacantu/example-app/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 11:11:16 PM] Indexing started.
+[Info  - 11:12:55 PM] Indexing ended. 7141 files indexed in 99s.
+[Info  - 11:12:55 PM] Writing state to /home/nubiacantu/.vscode-server/data/User/workspaceStorage/b97af0ddb574c55c5e7c09ea42f3dd1c/bmewburn.vscode-intelephense-client/2eb3f2a1.
+[Info  - 11:12:57 PM] Wrote state in 2.2s.

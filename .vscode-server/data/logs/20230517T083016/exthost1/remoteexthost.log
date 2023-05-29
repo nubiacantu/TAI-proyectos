@@ -1,0 +1,515 @@
+2023-05-17 07:30:35.125 [info] Extension host with pid 1670 started
+2023-05-17 07:30:35.853 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-17 07:30:35.856 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-05-17 07:30:35.857 [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-17 07:30:35.858 [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-17 07:30:35.873 [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade, startup: false, activationEvent: 'onLanguage:blade'
+2023-05-17 07:30:37.589 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-17 07:30:37.590 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2023-05-17 07:30:39.226 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-05-17 07:30:39.592 [info] Lock '/home/nubiacantu/.vscode-server/data/User/workspaceStorage/fc855bcc167722ae6fbd86fe37cce3dc/vscode.lock': Lock acquired.
+2023-05-17 07:30:40.692 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-17 07:30:40.694 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-17 07:30:41.904 [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: true, activationEvent: 'workspaceContains:**/*.php'
+2023-05-17 07:30:43.799 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:30:43.816 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:30:43.817 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:30:43.817 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:30:43.817 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:30:43.818 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:30:43.831 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:30:47.696 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-17 07:30:47.704 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-17 07:30:47.705 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2023-05-17 07:31:23.194 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-05-17 07:31:23.206 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-05-17 07:31:23.207 [info] ExtensionService#_doActivateExtension MehediDracula.php-namespace-resolver, startup: false, activationEvent: 'onLanguage:php'
+2023-05-17 07:31:29.909 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:31:40.799 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:31:42.466 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:32:42.751 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:33:42.563 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:34:41.806 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:35:42.934 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:35:43.083 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:35:56.397 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:36:42.320 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:37:10.567 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:37:12.965 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:37:41.991 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:38:41.620 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:39:41.895 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:40:41.621 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:40:41.954 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:41:41.695 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:42:41.546 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:43:41.526 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:44:35.327 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:44:41.527 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:45:41.525 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:46:41.593 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:47:13.505 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:47:41.775 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:48:41.567 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:49:41.748 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:50:16.389 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:50:42.299 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:50:42.421 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:50:45.645 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:50:58.639 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:51:41.571 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:52:41.615 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:53:42.001 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:54:41.570 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:55:41.664 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:56:41.529 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:57:41.500 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:58:41.534 [error] /bin/sh: 1: php: not found
+
+2023-05-17 07:59:41.567 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:00:44.415 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:00:45.121 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:01:41.924 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:02:07.017 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-17 08:02:42.061 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:02:50.387 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:03:41.578 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:04:41.678 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:05:41.599 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:06:41.829 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:07:10.880 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-05-17 08:07:10.919 [error] TypeError: Cannot read properties of null (reading 'data')
+    at Object.<anonymous> (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11077)
+    at Generator.next (<anonymous>)
+    at s (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1185)
+2023-05-17 08:07:41.761 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:08:41.636 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:09:41.643 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:10:41.637 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:10:41.991 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:11:41.664 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:12:41.730 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:13:41.708 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:14:41.965 [info] Eager extensions activated
+2023-05-17 08:14:45.654 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:15:41.942 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:16:41.557 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:17:41.586 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:18:42.163 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:19:41.563 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:20:41.801 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:20:42.042 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:21:41.769 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:22:41.578 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:23:41.619 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:24:42.805 [error] [bradlc.vscode-tailwindcss] provider FAILED
+2023-05-17 08:24:42.807 [error] TypeError: Cannot read properties of null (reading 'data')
+    at Object.<anonymous> (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11077)
+    at Generator.next (<anonymous>)
+    at s (/home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1185)
+2023-05-17 08:24:43.197 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:25:45.325 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:26:41.457 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:27:42.206 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:28:41.575 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:29:41.476 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:30:41.525 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:30:41.721 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:31:41.521 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:32:41.576 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:33:41.504 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:34:41.506 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:35:41.507 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:36:41.483 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:37:41.499 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:38:41.656 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:39:41.533 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:40:41.521 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:40:42.619 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:41:41.536 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:42:41.997 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:43:41.479 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:44:41.461 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:45:41.499 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:46:41.484 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:47:42.303 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:48:41.497 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:49:41.461 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:50:41.790 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:50:42.170 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:51:41.894 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:52:41.522 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:53:41.826 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:54:41.644 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:55:43.384 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:56:41.622 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:57:42.449 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:58:41.540 [error] /bin/sh: 1: php: not found
+
+2023-05-17 08:59:41.560 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:00:41.510 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:00:41.708 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:01:41.534 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:02:41.556 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:03:41.773 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:04:41.641 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:05:41.550 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:06:41.530 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:07:41.587 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:08:41.495 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:09:41.509 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:10:41.566 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:10:41.721 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:11:41.731 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:12:41.523 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:13:41.522 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:14:41.504 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:15:41.527 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:16:41.536 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:17:41.522 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:18:41.485 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:19:41.494 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:20:41.524 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:20:41.708 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:21:41.468 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:22:41.554 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:23:41.534 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:24:41.464 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:25:41.476 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:26:41.547 [error] /bin/sh: 1: php: not found
+
+2023-05-17 09:27:41.493 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:21:19.558 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:22:03.834 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:22:39.637 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:22:40.081 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:23:39.594 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:24:39.730 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:25:39.465 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:26:39.781 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:27:39.462 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:28:39.615 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:29:39.495 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:30:39.830 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:31:39.438 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:32:39.506 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:32:39.673 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:33:39.488 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:34:39.529 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:35:39.703 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:36:39.420 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:37:39.495 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:38:39.444 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:39:39.478 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:40:39.498 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:41:39.443 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:42:39.508 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:42:39.650 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:43:40.986 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:44:39.543 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:45:39.563 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:46:39.474 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:47:39.591 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:48:39.412 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:49:39.500 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:50:39.457 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:51:39.427 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:52:39.544 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:52:39.672 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:53:39.422 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:54:39.450 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:55:39.424 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:56:39.424 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:57:39.497 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:58:39.429 [error] /bin/sh: 1: php: not found
+
+2023-05-17 11:59:39.435 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:00:39.399 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:01:39.428 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:02:39.558 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:02:39.665 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:03:39.397 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:04:39.481 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:05:39.399 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:06:39.421 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:07:39.446 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:08:39.452 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:09:39.392 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:10:39.408 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:11:39.452 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:12:39.509 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:12:39.618 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:13:39.418 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:33:44.711 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:34:28.617 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:35:28.677 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:36:28.633 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:37:28.620 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:38:28.678 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:39:28.584 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:40:28.570 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:41:28.672 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:41:28.807 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:42:28.639 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:43:28.609 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:44:28.580 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:45:28.641 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:46:28.592 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:47:28.681 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:48:28.600 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:49:28.609 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:50:28.599 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:51:28.642 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:51:28.781 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:52:28.573 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:53:28.645 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:54:28.573 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:55:28.597 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:56:28.583 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:57:28.577 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:58:28.626 [error] /bin/sh: 1: php: not found
+
+2023-05-17 12:59:28.594 [error] /bin/sh: 1: php: not found
+
+2023-05-17 13:00:28.580 [error] /bin/sh: 1: php: not found
+
+2023-05-17 13:01:28.620 [error] /bin/sh: 1: php: not found
+
+2023-05-17 13:01:28.778 [error] /bin/sh: 1: php: not found
+
+2023-05-17 13:02:28.603 [error] /bin/sh: 1: php: not found
+
+2023-05-17 13:03:28.574 [error] /bin/sh: 1: php: not found
+
+2023-05-17 13:06:08.968 [error] /bin/sh: 1: php: not found
+

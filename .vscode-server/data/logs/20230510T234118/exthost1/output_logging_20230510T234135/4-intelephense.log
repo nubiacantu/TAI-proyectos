@@ -1,0 +1,7 @@
+[Info  - 12:13:05 AM] Initialising intelephense 1.9.5
+[Info  - 12:13:05 AM] Initialised in 139 ms
+[Info  - 12:13:06 AM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 12:13:06 AM] Searching file:///home/nubiacantu/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5/node_modules/intelephense/lib/stub for files to index.
+[Info  - 12:13:06 AM] Searching file:///home/nubiacantu/example-app for files to index.
+[Warn  - 12:13:10 AM] file:///home/nubiacantu/example-app/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 12:13:10 AM] Indexing started.

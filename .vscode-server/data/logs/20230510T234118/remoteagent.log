@@ -1,0 +1,64 @@
+2023-05-10 22:41:18.304 [info] 
+
+
+
+
+2023-05-10 22:41:18.589 [info] Extension host agent started.
+2023-05-10 22:41:19.368 [info] [127.0.0.1][89f323fa][ManagementConnection] New connection established.
+2023-05-10 22:41:24.575 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-10 22:41:24.936 [info] [127.0.0.1][0bb9ea96][ExtensionHostConnection] New connection established.
+2023-05-10 22:41:28.422 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-10 22:41:28.427 [error] resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-10 22:41:28.442 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-10 22:41:28.538 [info] [127.0.0.1][0bb9ea96][ExtensionHostConnection] <2278> Launched Extension Host Process.
+2023-05-10 23:09:28.872 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-05-10 23:09:29.211 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-05-10 23:09:44.712 [info] Extension signature is verified: bradlc.vscode-tailwindcss
+2023-05-10 23:09:45.509 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.3f1e9bcf-ee5e-4889-92c5-0862eedd0771: bradlc.vscode-tailwindcss
+2023-05-10 23:09:45.544 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/bradlc.vscode-tailwindcss-0.9.11
+2023-05-10 23:09:45.579 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-05-10 23:09:45.617 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-05-10 23:10:27.131 [info] Getting Manifest... onecentlin.laravel-blade
+2023-05-10 23:10:27.537 [info] Installing extension: onecentlin.laravel-blade
+2023-05-10 23:10:45.430 [info] Extension signature is verified: onecentlin.laravel-blade
+2023-05-10 23:10:54.572 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.d821b373-9726-49c9-8dab-39e85f099f2e: onecentlin.laravel-blade
+2023-05-10 23:10:54.594 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/onecentlin.laravel-blade-1.34.0
+2023-05-10 23:10:54.605 [info] Extracting extension completed. onecentlin.laravel-blade
+2023-05-10 23:10:54.643 [info] Extension installed successfully: onecentlin.laravel-blade
+2023-05-10 23:11:12.488 [info] Getting Manifest... codingyu.laravel-goto-view
+2023-05-10 23:11:12.910 [info] Installing extension: codingyu.laravel-goto-view
+2023-05-10 23:11:28.909 [info] Getting Manifest... amiralizadeh9480.laravel-extra-intellisense
+2023-05-10 23:11:29.393 [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+2023-05-10 23:11:37.483 [info] Extension signature is verified: codingyu.laravel-goto-view
+2023-05-10 23:11:39.319 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.92b2eb60-bb97-4e38-9775-172ff705295f: codingyu.laravel-goto-view
+2023-05-10 23:11:39.539 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/codingyu.laravel-goto-view-1.3.8
+2023-05-10 23:11:39.556 [info] Extracting extension completed. codingyu.laravel-goto-view
+2023-05-10 23:11:39.796 [info] Extension installed successfully: codingyu.laravel-goto-view
+2023-05-10 23:11:54.257 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2023-05-10 23:11:54.668 [info] Installing extension: bmewburn.vscode-intelephense-client
+2023-05-10 23:11:58.161 [info] Extension signature is verified: amiralizadeh9480.laravel-extra-intellisense
+2023-05-10 23:11:59.287 [info] Getting Manifest... zobo.php-intellisense
+2023-05-10 23:11:59.870 [info] Installing extension: zobo.php-intellisense
+2023-05-10 23:12:05.314 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.fc99183f-6ebd-46ec-8a5d-d71fdace8578: amiralizadeh9480.laravel-extra-intellisense
+2023-05-10 23:12:06.084 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.3
+2023-05-10 23:12:06.308 [info] Extracting extension completed. amiralizadeh9480.laravel-extra-intellisense
+2023-05-10 23:12:07.088 [info] Extension installed successfully: amiralizadeh9480.laravel-extra-intellisense
+2023-05-10 23:12:15.120 [info] Getting Manifest... mehedidracula.php-namespace-resolver
+2023-05-10 23:12:15.999 [info] Installing extension: mehedidracula.php-namespace-resolver
+2023-05-10 23:12:36.278 [info] Extension signature is verified: bmewburn.vscode-intelephense-client
+2023-05-10 23:12:45.441 [info] Extension signature is verified: zobo.php-intellisense
+2023-05-10 23:12:51.560 [info] Extension signature is verified: mehedidracula.php-namespace-resolver
+2023-05-10 23:12:52.015 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.0017aaf5-8103-40b5-ba4d-ddc465d41e3f: mehedidracula.php-namespace-resolver
+2023-05-10 23:12:52.047 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/mehedidracula.php-namespace-resolver-1.1.9
+2023-05-10 23:12:52.072 [info] Extracting extension completed. mehedidracula.php-namespace-resolver
+2023-05-10 23:12:52.125 [info] Extension installed successfully: mehedidracula.php-namespace-resolver
+2023-05-10 23:12:54.365 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.a1df324c-820c-4631-b72f-0729e2d95edd: bmewburn.vscode-intelephense-client
+2023-05-10 23:12:54.479 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5
+2023-05-10 23:12:54.543 [info] Extracting extension completed. bmewburn.vscode-intelephense-client
+2023-05-10 23:12:54.700 [info] Extension installed successfully: bmewburn.vscode-intelephense-client
+2023-05-10 23:13:35.644 [info] Extracted extension to /home/nubiacantu/.vscode-server/extensions/.364c719f-b990-454f-b54c-fd2825d9a3d2: zobo.php-intellisense
+2023-05-10 23:13:35.666 [info] Renamed to /home/nubiacantu/.vscode-server/extensions/zobo.php-intellisense-1.1.2
+2023-05-10 23:13:35.674 [info] Extracting extension completed. zobo.php-intellisense
+2023-05-10 23:13:35.733 [info] Extension installed successfully: zobo.php-intellisense
+2023-05-10 23:14:15.981 [info] [127.0.0.1][89f323fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-10 23:14:17.386 [info] [127.0.0.1][0bb9ea96][ExtensionHostConnection] <2278> Extension Host Process exited with code: 0, signal: null.
