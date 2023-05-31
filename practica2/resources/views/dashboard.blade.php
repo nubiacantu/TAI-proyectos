@@ -16,5 +16,5 @@
             </div>
         </div>
     </div>
-
+    <a href="{{route('product-list')}}"> Productos </a>
 @endsection

@@ -3,7 +3,7 @@
 
 <!-- Definir el título de la página -->
 @section('titulo')
-    Registrate Devstagram
+    Registrate 
 @endsection
 
 <!-- Sección de contenido que se envía al contenedor (yield) -->
@@ -11,7 +11,7 @@
     <div class="md:flex md:justify-center md:gap-10 md:items-center">
         <!-- Imagen de registro de usuarios -->
         <div class="md:w-6/12 p-5">
-            <img src="{{asset ('img/registrar.jpg')}}" alt="Imagen registro de usuarios">
+            <img src="{{asset ('img/register.png')}}" alt="Imagen registro de usuarios">
         </div>
         
         <!-- Formulario de registro -->

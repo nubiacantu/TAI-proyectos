@@ -2,14 +2,14 @@
 @extends('layouts.app')
 <!-- crear el contenido que se envia al contenedor(yield)-->
 @section('titulo')
-    Inicia Sesión en Devstagram UPV
+    Inicia Sesión 
 @endsection
 
 @section('contenido')
 <div class="md:flex md:justify-center md:gap-10 md:items-center">
         <!-- Imagen de registro de usuarios -->
         <div class="md:w-6/12 p-5">
-            <img src="{{asset ('img/login.jpg')}}" alt="Imagen registro de usuarios">
+            <img src="{{asset ('img/login.png')}}" alt="Imagen registro de usuarios">
         </div>
         
         <!-- Formulario de registro -->

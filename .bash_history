@@ -255,3 +255,59 @@ npm
 npm run dev
 npm install -D tailwindcss postcss autoprefixer -p
 npx tailwindcss init
+cd /home/nubiacantu
+cd practica1
+npm run dev
+cd ..
+cd practica2
+npm run dev
+cd /home/nubiacantu
+cd practica2
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+sail artisan make:migration create_products_table
+sail artisan migrate
+git init
+git add .
+git commit -m "version 1"
+cd ..
+git init
+git add .
+git status
+git add practica2
+git rm --cached practuca2
+git rm --cached practica2
+git rm --cached practica2 -f
+ls
+git add practica2
+git rm --cached practica2
+git rm -f --cached practica2
+ls
+git add practica2
+cd practica
+cd practica2
+git status
+git rm .git
+git add practica2
+ls
+cd ..
+git add practica2
+git commit -m "practicafinalu1"
+git push origin master
+git add practica2/
+git status
+git commit -m "version1"
+git init
+git config --global init.master
+git remote add origin https://github.com/nubiacantu/TAI-proyectos.git
+git init
+git remote add origin https://github.com/nubiacantu/TAI-proyectos.git
+git add .
+git commit -m "proyectou1"
+git push -u origin master
+cd /home/nubiacantu
+cd practica1
+sail up
+cd ..
+cd practica2
+sail up
