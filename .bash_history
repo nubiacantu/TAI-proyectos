@@ -311,3 +311,203 @@ sail up
 cd ..
 cd practica2
 sail up
+cd /home/nubiacantu
+cd practica2
+npm run dev
+cd /home/nubiacantu
+cd practica2
+sail artisan make:controller LoginController
+sail artisan make:controller PostController
+sail artisan make:controller LogoutController
+sail artisan make:controller RegisterController
+sail artisan make:migration add_username_to_users_table
+sail artisan migrate
+sail up
+sail artisan add_columns_to_products_table
+sail artisan make:migration add_columns_to_products_table
+sail artisan migrate
+php artisan make:controller ProductController
+sail artisan make:controller ProductController
+sail artisan make:model Products
+cd ..
+git init
+git add .
+git commit -m "proyecto unidad 1 - agregar y eliminar productos"
+git push -u origin master
+npm run dev
+sail up 
+npm run dev
+sail up
+npm run dev
+sail up
+npm run dev
+sail up
+npm run dev
+npm install --save dropzone
+npm install -d 
+npm install -D @types/dropzone
+sail artisan make:migration create_posts_table
+sail artisan migration
+sail artisan migrations
+sail artisan migrate
+sail artisan make:model posts
+sail composer require intervention/image
+sudo sail composer require intervention/image
+sail composer require intervention/image
+ls -l
+ls -l practica1
+ls -l /practica1
+cd ..
+chmod 777 practica1
+cd practica1
+sail composer require intervention/image
+sudo chmod -R 755 /var/www/html/vendor
+ls
+cd ..
+ld
+ls
+cd ..
+ls
+cd ..
+ls
+sudo chmod -R 755 /var/www/html/vendor
+cd var
+cd www
+ls
+cd ..
+cd home
+cd nubiacantu
+cd practica1
+sail composer require intervention/image
+chmod -R 755 /var/www/html/vendor
+mkdir -p /var/www/html/vendor
+sudo mkdir -p /var/www/html/vendor
+sudo chmod -R 755 /var/www/html/vendor
+sail composer require intervention/image
+sudo mkdir -p /var/www/html/vendor/intervention
+sudo chmod -R 755 /var/www/html/vendor/intervention
+sail composer require intervention/image
+sudo visudo
+sail composer require intervention/image
+sudo visudo
+sail composer require intervention/image
+sudo visudo
+mkdir /var/www/html/vendor
+composer install
+sail composer require intervention/image
+composer self-update --1
+sudo apt install composer
+sail composer ?
+sail composer require intervention/image
+mkdir /var/www/html/vendor
+composer require intervention/image
+sail composer require intervention/image
+cd ..
+ls
+sail composer require intervention/image
+practica1
+cd practica1
+sail composer require intervention/image
+./vendor/bin/sail shell
+sudo mkdir -p /var/www/html/vendor/intervention
+sudo chmod -R 755 /var/www/html/vendor/intervention
+./vendor/bin/sail composer require intervention/image
+sudo var
+sudo mkdir -p /var/www/html/vendor
+sudo chmod -R 755 /var/www/html/vendor/intervention
+./vendor/bin/sail composer require intervention/image
+sudo -u www-data ./vendor/bin/sail composer require intervention/image
+cd ..
+cd
+ls
+cd ..
+ls
+cd /var/www/html
+ls -l
+sudo ./vendor/bin/sail composer require intervention/image
+cd ..
+cd /home
+ce nubiacantu/
+cd nubiacantu/
+cd practica1
+sudo ./vendor/bin/sail composer require intervention/image
+df -h
+cd /
+ls
+cd home/
+cd nubiacantu/
+cd practica1
+ls
+rm -rf vendor composer.lock
+sudo rm -rf vendor composer.lock
+composer install
+sudo apt update
+sudo apt install composer
+cd ..
+curl -s https://laravel.build/devstagram | bash
+cd devstagram/
+cd ..
+curl -s https://laravel.build/devstagram2 | bash
+sail up
+cd ..
+cdd
+cd devstagram/
+sail up
+./vendor/bin/sail up
+ls
+cd vendor/
+cd v
+ls
+cd laravel/
+ls
+cd sail/
+ls
+cd ..
+sail artisan make:controller ImagenController
+nom run dev
+npm run dev
+cd /home/nubiacantu/practica1
+sudo nano ~/.bashrc
+cd ..
+cd devstagram2
+sail composer require intervention/image
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+$ npm install --save dropzone
+sail artisan make:migration add_username_to_users_table
+sail artisan make:migration create_posts_table
+sail artisan make:model posts
+sail artisan make:controller ImagenController
+sail artisan make:controller LoginController
+sail artisan make:controller LogoutController
+sail artisan make:controller PostController
+sail artisan make:controller RegisterController
+sail artisan migrate
+npm run dev
+sail up
+cd ..
+curl -s "https://laravel.build/devstagram2" | bash
+cd devstagram2
+sail up
+clear
+sail artisan make:factory Post
+                    cd /home/nubiacantu/devstagram2
+npm run dev
+nom run build
+npm run build
+cd devstagram2
+sail artisan make:factory Post
+sail artisan migrate:rollback --step=1
+sail artisan migrate
+sail artisan tinker
+sail artisan make:factory posts
+sail artisan tinker
+sail up
+npm run build
+sail artisan migrate rollback --step=1
+sail artisan migrate:rollback --step=1
+sail artisan migrate
+npm run build
+npm run dev
+npm run build
+sail up

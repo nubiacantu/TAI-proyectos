@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\posts;
 
 class PostController extends Controller
 {
@@ -18,4 +19,31 @@ class PostController extends Controller
     public function index() {
         return view('dashboard');
     }
+    //cerando etidi create para formulario de publucaciones
+    public function create() {
+        return view('posts.create');
+    }
+
+    public function store(Request $request) {
+        //validaciones del formulario de registros
+        $this->validate($request,[
+            'titulo'=>'required', 
+            'descripcion'=>'required'
+        ]);
+
+        //Invocar el modelo User para crear el registro
+        posts::create([
+            'titulo'=>$request->titulo,
+            'descripcion'=>$request->descripcion
+
+            
+        ]);
+
+        //redireccionamiento
+        return redirect()->route('post.create');
+
+        
+    }
 }
+
+

@@ -16,9 +16,6 @@
         <button type="button" data-modal-target="authentication-modal" data-modal-toggle="authentication-modal" class="ml-auto bg-green-500 hover:bg-emerald-700 transition-colors cursor-pointer font-bold p-3 text-white rounded-lg">
     Agregar Producto
 </button>
-
-
-
         <!-- Main modal -->
         <div id="authentication-modal" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
             <div class="relative w-full max-w-md max-h-full">
@@ -32,35 +29,66 @@
                         <h3 class="mb-4 text-xl font-medium text-gray-900 dark:text-white">Agregar Producto</h3>
                         
                         <form class="space-y-6" action="{{route('product-list')}}" method="POST" novalidate>
-                        @csrf <!-- para que detecte token de envio seguro-->
+                            @csrf <!-- para que detecte token de envio seguro-->
                             <div>
                                 <label for="desc_corta" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Descripción corta</label>
-                                <input type="text" name="desc_corta" id="desc_corta" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="Ingrese la descripción corta" required>
+                                <input type="text" name="desc_corta" id="desc_corta" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white  @error ('desc_corta') border-red-500 @enderror" value="{{old('desc_corta')}}" placeholder="Ingrese la descripción corta" required>
+                                <!--directiva para mostrar mensaje de error-->
+                                @error ('desc_corta')
+                                    <p class="bg-red-500 text-white my-2 rounded-lg text-sm p-2">
+                                        {{$message}}
+                                    </p>
+                                @enderror
                             </div>
                             <div>
                                 <label for="desc_larga" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Descripción larga</label>
-                                <textarea type="text" name="desc_larga" id="desc_larga" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="Ingrese la descripción larga" required></textarea>
+                                <textarea type="text" name="desc_larga" id="desc_larga" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white  @error ('desc_larga') border-red-500 @enderror" value="{{old('desc_larga')}}" placeholder="Ingrese la descripción larga" required></textarea>
+                                @error ('desc_larga')
+                                    <p class="bg-red-500 text-white my-2 rounded-lg text-sm p-2">
+                                        {{$message}}
+                                    </p>
+                                @enderror
                             </div>
 
                             <div class="flex">
                                 <div class="mr-2">
                                     <label for="precio_venta" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Precio de Venta (M.N.)</label>
-                                    <input type="text" name="precio_venta" id="precio_venta" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="Ej. 100.00" required>
+                                    <input type="text" name="precio_venta" id="precio_venta" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white  @error ('precio_venta') border-red-500 @enderror" value="{{old('precio_venta')}}" placeholder="Ej. 100.00" required>
+                                    @error ('precio_venta')
+                                        <p class="bg-red-500 text-white my-2 rounded-lg text-sm p-2">
+                                            {{$message}}
+                                        </p>
+                                    @enderror
                                 </div>
                                 <div>
                                     <label for="precio_compra" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Precio de Compra (M.N.)</label>
-                                    <input type="text" name="precio_compra" id="precio_compra" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="Ej. 80.00" required>
+                                    <input type="text" name="precio_compra" id="precio_compra" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white  @error ('precio_compra') border-red-500 @enderror" value="{{old('precio_compra')}}" placeholder="Ej. 80.00" required>
+                                    @error ('precio_compra')
+                                        <p class="bg-red-500 text-white my-2 rounded-lg text-sm p-2">
+                                            {{$message}}
+                                        </p>
+                                    @enderror
                                 </div>
                             </div>
 
                             <div class="flex">
                                 <div class="mr-2">
                                     <label for="stock" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Stock</label>
-                                    <input type="text" name="stock" id="stock" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="Ej. 20" required>
+                                    <input type="text" name="stock" id="stock" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white  @error ('stock') border-red-500 @enderror" value="{{old('stock')}}" placeholder="Ej. 20" required>
+                                    @error ('stock')
+                                        <p class="bg-red-500 text-white my-2 rounded-lg text-sm p-2">
+                                            {{$message}}
+                                        </p>
+                                    @enderror
                                 </div>
                                 <div>
                                     <label for="peso" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Peso (en Kg)</label>
-                                    <input type="text" name="peso" id="peso" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white" placeholder="Ej. 32" required>
+                                    <input type="text" name="peso" id="peso" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white  @error ('peso') border-red-500 @enderror" value="{{old('peso')}}" placeholder="Ej. 32" required>
+                                    @error ('peso')
+                                        <p class="bg-red-500 text-white my-2 rounded-lg text-sm p-2">
+                                            {{$message}}
+                                        </p>
+                                    @enderror
                                 </div>
                             </div>
 

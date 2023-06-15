@@ -48,7 +48,7 @@ class RegisterController extends Controller
         auth()->attempt($request->only('email','password'));
 
         //redireccionamiento
-        return redirect()->route('post-index');
+        return redirect()->route('product-list');
 
         
     }
