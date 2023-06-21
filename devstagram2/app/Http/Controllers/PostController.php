@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 use App\Models\User;
+use App\Models\comentarios;
 use Illuminate\Http\Request;
 use App\Models\posts;
 
@@ -28,6 +29,8 @@ class PostController extends Controller
     public function create() {
         return view('posts.create');
     }
+
+    
 
     public function store(Request $request) {
         //validaciones del formulario de registros

@@ -7,6 +7,7 @@ use App\Http\Controllers\LoginController;
 use App\Http\Controllers\LogoutController;
 use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\ImagenController;
+use App\Http\Controllers\ComentariosController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -59,7 +60,10 @@ Route::post('post/create', [PostController::class,'store']);
 //ruta para enviar datos al servidor
 Route::post('/imagenes', [ImagenController::class,'store'])->name('imagenes.store');
 
-
+//ruta de dashboard de usuario
 Route::get('/{user:username}', [PostController::class,'index'])->name('post-index');
-
+//ruta de detalles de imagen
 Route::get('/image/{id}', [ImagenController::class,'index'])->name('image.detail');
+
+// Ruta de Publicar comentarios
+Route::post('/{user:username}/posts/{post}', [ComentariosController::class, 'store'])->name('comentarios.store');

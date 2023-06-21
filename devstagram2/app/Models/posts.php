@@ -16,4 +16,6 @@ class posts extends Model
         'imagen',
         'user_id'
     ];
+
+  
 }
