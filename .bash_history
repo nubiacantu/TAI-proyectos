@@ -561,3 +561,9 @@ git push -u origin master
 cd devstagram2
 npm run build
 sail up
+cd..
+cd ..
+git add .
+git commit -m "comentarios"
+git push -u rigin master
+git push -u origin master

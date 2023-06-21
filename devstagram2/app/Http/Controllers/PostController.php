@@ -15,7 +15,7 @@ class PostController extends Controller
     public function __construct(){
         //protegemos la url
         //al metodo index con el constructor le pasamos el parametro de autenticacion
-        $this->middleware('auth');
+        //$this->middleware('auth');
     }
     public function index(User $user)
     {

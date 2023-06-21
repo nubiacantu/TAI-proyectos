@@ -22,11 +22,6 @@ use App\Http\Controllers\ComentariosController;
 Route::get('/', function () {
     return view('principal');
 });
-//ruta para vista de alumnos
-Route::view('/alumnos','alumnos');
-
-//ruta para vista de curriculum
-Route::view('/curriculum','curriculum');
 
 //ruta para vista de registro de usuarios
 Route::get('/crear', [RegisterController::class,'index'])->name('register');

@@ -67,14 +67,14 @@
         </div>
     </div>
 </div>
-
+<!-- imagen y datos de perfil-->
 <div class="flex justify-center items-center ">
   <div class="w-full md:w-8/12 lg:w-6/12 flex justify-center">
     <div class="md:w-8/12 lg:w-1/4 px-5">
       <img src="{{asset('img/usuario.svg')}}" alt="Imagen de usuario" class="mx-auto">
     </div>
     <div class="md:w-8/12 lg:w-1/6 px-5 flex flex-col md:items-start py-10">
-      <p class="text-gray-700 text-2xl mb-3">{{auth()->user()->username}}</p>
+      <p class="text-gray-700 text-2xl mb-3">{{$user->username}}</p>
       <p class="text-gray-800 text-sm mb-3 font-bold mt-5">
         0
         <span class="font-normal">Seguidores</span>

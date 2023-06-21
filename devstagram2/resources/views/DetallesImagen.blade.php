@@ -14,7 +14,7 @@
     
     <!-- Detalles de imagen de post -->
     <div class="md:w-5/12 bg-white p-6 rounded-lg shadow-xl h-96 md:h-96 min-h-[0] md:min-h-[0]  ">
-        <a href="{{route('post-index', auth()->user()->username) }}" class="flex items-center  text-gray-500 text-sm mb-5">
+        <a href="{{route('post-index',$username) }}" class="flex items-center  text-gray-500 text-sm mb-5">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 mr-1">
                 <path d="M15 18l-6-6 6-6" />
             </svg>
@@ -41,6 +41,7 @@
         <p class="text-gray-600 uppercase text-sm text-center font-bold">Debes iniciar sesión para poder comentar.</p>
     @endguest 
     @auth
+        <!-- crear comentarios solo autenticados-->
         <form action="{{ route('comentarios.store', [ auth()->user()->username,'post'=>$post]) }}" method="POST">
             @csrf
             <div class="">
@@ -53,19 +54,20 @@
             <input type="submit" value="Comentar" class="bg-green-600 hover:bg-emerald-700 transition-colors cursor-pointer uppercase font-bold w-full p-3 text-white rounded-lg">
         </form>
     @endauth
+    <!--mostrar comentarios de calificacion-->
     <div class="shadow rounded-md my-5 max-h-96 overflow-y-scroll">
-    @if($comentarios->count())
-        @foreach($comentarios as $comentario)
-            <div class="p-5 border-gray-300 border-b">
-                <a href="{{ route('post-index', [$comentario->user->username]) }}" class="font-bold">{{ $comentario->user->username }}</a>
-                <p>{{ $comentario->comentario }}</p>
-                <p class="text-sm text-gray-500">{{ $comentario->created_at->DiffForHumans() }}</p>
-            </div>
-        @endforeach
-    @else
-        <p class="p-10 text-center text-gray-700">No hay comentarios aún.</p>
-    @endif
-</div>
+        @if($comentarios->count())
+            @foreach($comentarios as $comentario)
+                <div class="p-5 border-gray-300 border-b">
+                    <a href="{{ route('post-index', [$comentario->user->username]) }}" class="font-bold">{{ $comentario->user->username }}</a>
+                    <p>{{ $comentario->comentario }}</p>
+                    <p class="text-sm text-gray-500">{{ $comentario->created_at->DiffForHumans() }}</p>
+                </div>
+            @endforeach
+        @else
+            <p class="p-10 text-center text-gray-700">No hay comentarios aún.</p>
+        @endif
+    </div>
        
 </div>
 

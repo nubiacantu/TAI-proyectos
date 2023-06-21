@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class posts extends Model
 {
     use HasFactory;
-    //forszar el nombre de la tabla posts
+    //forzar el nombre de la tabla posts
     protected $table = 'posts';
     protected $fillable = [
         'titulo',
