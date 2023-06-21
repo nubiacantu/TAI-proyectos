@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use Intervention\Image\Facades\Image;
+use App\Models\posts;
+use App\Models\User;
 
 class ImagenController extends Controller
 {
@@ -31,5 +33,16 @@ class ImagenController extends Controller
         ///verificamos que el nombre del archivo se ponga como unico
         return response()->json(['imagen'=>$nombreImagen]);
 
+    }
+
+    public function index($id){
+        // Obtener la imagen y los demás datos según el ID
+        $post = posts::find($id);
+        // Obtener el nombre de usuario del post
+        $username = User::where('id', $post->user_id)->value('username');
+
+        // Pasar los datos a la vista
+        return view('DetallesImagen', ['post' => $post, 'username' => $username]);
+        
     }
 }

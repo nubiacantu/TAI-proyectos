@@ -40,11 +40,11 @@
                     <nav class="flex gap-2 item-center ">
                         <div class="hidden md:block">
                             <div class="ml-10 flex items-baseline space-x-4">
-                                Hola:  <span class="font-normal text-white">  {{auth()->user()->username}} </span>
+                                Hola:  <span class="ml-1 font-normal text-white">  {{auth()->user()->username}} </span>
 
                                 <form method="post" action="{{route('logout')}}">
                                     @csrf
-                                    <button type="submit" class="text-white hover:bg-teal-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium" >Log Out </button>
+                                    <button type="submit" class="bg-teal-900 text-white rounded-md px-3 py-2 text-sm font-medium hover:bg-teal-700" >Log Out </button>
                                 
                                 </form>
                             </div>    

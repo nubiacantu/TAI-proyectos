@@ -511,3 +511,28 @@ npm run build
 npm run dev
 npm run build
 sail up
+cd
+ls
+git init
+git add .
+git rm --cached devstagram2/resources/lang/es
+git rm --cached devstagram2/resources/lang/es -f
+git rm lf --cached devstagram2/resources/lang/es 
+git rm -f --cached devstagram2/resources/lang/es 
+git -f rm --cached devstagram2/resources/lang/es 
+git rm --cached devstagram2/resources/lang/es -f
+git rm --cached devstagram2/resources/lang/es
+git add .
+git commit -m "devstagram con imagen"
+git push -u origin master
+npm run build
+sailup
+sail up
+cd ..
+cd home
+cd nubiacantu
+cd devstagram2
+sail up
+npm run build
+npm run dev
+npm run build

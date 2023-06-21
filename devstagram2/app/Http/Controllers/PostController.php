@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Models\User;
 use Illuminate\Http\Request;
 use App\Models\posts;
 
@@ -16,12 +16,13 @@ class PostController extends Controller
         //al metodo index con el constructor le pasamos el parametro de autenticacion
         $this->middleware('auth');
     }
-    public function index() {
-        // Obtener los posts del usuario autenticado
-        $posts = posts::where('user_id', auth()->id())->get();
-
-        // Enviar la lista de posts a la vista
-        return view('dashboard')->with('posts', $posts);
+    public function index(User $user)
+    {
+        // Obtener los posts de publicación del usuario paginados
+        $posts = posts::where('user_id', $user->id)->paginate(6);
+    
+        // Retornar a la vista con el username y los posts de publicación
+        return view('dashboard', ['user' => $user, 'posts' => $posts]);
     }
     //creando  create para formulario de publicaciones
     public function create() {
@@ -59,7 +60,7 @@ class PostController extends Controller
         ]);
 
         //redireccionamiento
-        return redirect()->route('post-index');
+        return redirect()->route('post-index',auth()->user()->username);
 
         
     }

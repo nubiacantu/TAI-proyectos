@@ -34,7 +34,7 @@ Route::get('/crear', [RegisterController::class,'index'])->name('register');
 Route::post('/crear', [RegisterController::class,'store']);
 
 //ruta para mostrar el dashboard deñ usuario autenticado
-Route::get('/muro', [PostController::class,'index'])->name('post-index');
+//Route::get('/muro', [PostController::class,'index'])->name('post-index');
 
 //ruta para login
 Route::get('/login', [LoginController::class,'index'])->name('login');
@@ -58,3 +58,8 @@ Route::post('post/create', [PostController::class,'store']);
 
 //ruta para enviar datos al servidor
 Route::post('/imagenes', [ImagenController::class,'store'])->name('imagenes.store');
+
+
+Route::get('/{user:username}', [PostController::class,'index'])->name('post-index');
+
+Route::get('/image/{id}', [ImagenController::class,'index'])->name('image.detail');

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('titulo')
-    Tu cuenta de devstagram UPV
+    Perfil: {{$user->username}}
 @endsection
 
 @section('contenido')
@@ -69,8 +69,8 @@
 </div>
 
 <div class="flex justify-center items-center ">
-  <div class="w-full md:w-8/12 lg:w-1/4 flex justify-center">
-    <div class="md:w-8/12 lg:w-1/5 px-5">
+  <div class="w-full md:w-8/12 lg:w-6/12 flex justify-center">
+    <div class="md:w-8/12 lg:w-1/4 px-5">
       <img src="{{asset('img/usuario.svg')}}" alt="Imagen de usuario" class="mx-auto">
     </div>
     <div class="md:w-8/12 lg:w-1/6 px-5 flex flex-col md:items-start py-10">
@@ -92,7 +92,40 @@
   </div>
 </div>
 <br>
-<!--muestra todos los post del usuario-->
+
+<!-- Mostrar los posts de publicación obtenidos desde el PostController método index -->
+<section class="container mx-auto mt-10">
+  <h2 class="text-4xl text-center font-black my-10">Publicaciones</h2>
+  @if($posts->count())
+    <!-- Listamos publicaciones -->
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      @foreach ($posts as $post)
+        <div>
+          <a href="{{route('image.detail',['id' => $post->id])}}">
+            <img src="{{ asset('uploads').'/'.$post->imagen }}" alt="Imagen del post {{ $post->titulo }}">
+          </a>
+        </div>       
+      @endforeach
+    </div>
+    <!-- Agregar enlaces de paginación -->
+    <div class="mt-10 justify-end">
+        <nav class="flex justify-end">
+            {{ $posts->links() }}
+        </nav>
+    </div>
+    
+  @else
+    <p class="text-gray-600 uppercase text-sm text-center font-bold">No hay Publicaciones</p>
+  @endif
+
+  
+</section>
+
+
+
+
+
+<!--muestra todos los post del usuario
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"> 
     <div class="mx-auto flex max-w-80% flex-col shadow-lg rounded-xl p-16 bg-white">  
             <table class="table-auto ">
@@ -122,6 +155,6 @@
                 </tbody>
             </table>
     </div>
-</div>
+</div>-->
 
 @endsection

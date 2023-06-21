@@ -25,6 +25,6 @@ class LoginController extends Controller
         }
 
         //credenciales correctas
-        return redirect()->route('post-index');
+        return redirect()->route('post-index',auth()->user()->username);
     }
 }
