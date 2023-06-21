@@ -41,7 +41,7 @@
         <p class="text-gray-600 uppercase text-sm text-center font-bold">Debes iniciar sesión para poder comentar.</p>
     @endguest 
     @auth
-        <form action="{{ route('comentarios.store', [auth()->user()->username,'post'=>$post]) }}" method="POST">
+        <form action="{{ route('comentarios.store', [$username,'post'=>$post]) }}" method="POST">
             @csrf
             <div class="">
                 <label for="comentario" class="mb-2 block uppercase text-gray-500 font-bold">Escribe un comentario</label>
@@ -57,7 +57,7 @@
     @if($comentarios->count())
         @foreach($comentarios as $comentario)
             <div class="p-5 border-gray-300 border-b">
-                <a href="{{ route('post-index', ['user'=> $comentario->user]) }}" class="font-bold">{{ $comentario->user->username }}</a>
+                <a href="{{ route('post-index', [$username]) }}" class="font-bold">{{ $comentario->user->username }}</a>
                 <p>{{ $comentario->comentario }}</p>
                 <p class="text-sm text-gray-500">{{ $comentario->created_at->DiffForHumans() }}</p>
             </div>

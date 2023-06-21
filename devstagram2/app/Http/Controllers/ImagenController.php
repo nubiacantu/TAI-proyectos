@@ -5,6 +5,7 @@ use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use Intervention\Image\Facades\Image;
 use App\Models\posts;
+use App\Models\comentarios;
 use App\Models\User;
 
 class ImagenController extends Controller
@@ -40,9 +41,11 @@ class ImagenController extends Controller
         $post = posts::find($id);
         // Obtener el nombre de usuario del post
         $username = User::where('id', $post->user_id)->value('username');
+         // Obtener los comentarios relacionados al post
+        $comentarios = comentarios::where('post_id', $post->id)->get(); 
 
         // Pasar los datos a la vista
-        return view('DetallesImagen', ['post' => $post, 'username' => $username]);
-        
+        return view('DetallesImagen', ['post' => $post, 'username' => $username, 'comentarios' => $comentarios]);
+                    
     }
 }

@@ -17,5 +17,7 @@ class posts extends Model
         'user_id'
     ];
 
-  
+    public function comentarios(){
+        return $this->hasMany(comentarios::class);
+    }
 }
