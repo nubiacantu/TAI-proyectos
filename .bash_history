@@ -536,3 +536,28 @@ sail up
 npm run build
 npm run dev
 npm run build
+npm rin dev
+npm run dev
+sail artisan make:migration create_comentarios_table
+sail artisan make:controller ComentariosCOntroller
+sail artisan make:controller ComentariosController
+sail artisan delete:controller ComentariosCOntroller
+sail artisan make:model comentarios
+sail artisan remove:controller ComentariosCOntroller
+sail artisan migrate
+ls -l
+cd public
+ls -l
+cd ..
+nom run dev
+npm run dev
+cd ..
+git add .
+git commit -m "comentarios"
+git push -u origin master
+git add .
+git commit -m "comentarios"
+git push -u origin master
+cd devstagram2
+npm run build
+sail up
